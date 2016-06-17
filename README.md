@@ -3,3 +3,4 @@ Demo git avec OpenClassroom
 Ca se passe bien
 
 On modifie depuis github
+depuis le terminal
